@@ -1,2 +1,2 @@
 # Bilan
-Website for Vrnetian plaster in Glasgow
+Website for Venetian plaster in Glasgow
